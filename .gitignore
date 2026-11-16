@@ -1,0 +1,6 @@
+*.zip
+*.exe
+*.pck
+*.sav
+*.bak
+.DS_Store
