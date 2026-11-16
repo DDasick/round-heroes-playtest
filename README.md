@@ -1,8 +1,10 @@
-# 동글 용사들 — 비공개 테스트 배포
+# 동글 용사들 — 테스트 배포
 
 게임 소스 프로젝트와 개인 세이브를 포함하지 않는 배포 전용 저장소입니다.
 
 ## 다운로드
+
+[Windows ZIP 바로 다운로드](https://github.com/DDasick/round-heroes-playtest/releases/latest/download/RoundHeroes-Windows.zip)
 
 [최신 테스트 버전](https://github.com/DDasick/round-heroes-playtest/releases/latest)의 **Assets → RoundHeroes-Windows.zip**을 내려받으세요.
 GitHub가 자동으로 제공하는 **Source code (zip/tar.gz)**는 게임 실행용이 아닙니다.
@@ -22,4 +24,4 @@ ZIP을 전부 풀고 `RoundHeroes/RoundHeroes.exe`를 실행하세요.
 
 사용한 버전과 발생 상황을 Issues에 적어주세요. 스크린샷이 있으면 함께 첨부해주세요.
 
-이 저장소는 비공개입니다. 다운로드 및 제보에는 초대받은 GitHub 계정이 필요합니다.
+초대나 GitHub 로그인 없이 게임을 다운로드할 수 있습니다. Issues에 문제를 제보할 때에는 GitHub 로그인이 필요합니다.
